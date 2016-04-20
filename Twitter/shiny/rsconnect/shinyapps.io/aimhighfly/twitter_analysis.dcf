@@ -1,0 +1,9 @@
+name: twitter_analysis
+account: aimhighfly
+server: shinyapps.io
+appId: 92722
+bundleId: 413156
+url: https://aimhighfly.shinyapps.io/twitter_analysis/
+when: 1460055181.0488
+asMultiple: FALSE
+asStatic: FALSE
